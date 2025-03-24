@@ -21,25 +21,25 @@
                 <br>
         </samp>
         <!-- Technologies -->
-        <!-- JavaScript -->
-        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="JavaScript"
-                        src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
+        <!-- Java -->
+        <a href="https://github.com/lirik1254?tab=repositories" target="_blank"><img alt="Java"
+                        src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
         </a>
-        <!-- React -->
-        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="React"
-                        src="https://img.shields.io/badge/-React-02cdf1?style=flat-square&logo=React&logoColor=white">
+        <!-- SpringBoot -->
+        <a href="https://github.com/lirik1254?tab=repositories" target="_blank"><img alt="SpringBoot"
+                        src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&&logo=Spring&logoColor=white">
         </a>
-        <!-- NextJS -->
-        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="NextJS"
-                        src="https://img.shields.io/badge/-NextJS-white?style=flat-square&logo=Next.js&logoColor=black">
+        <!-- PostgreSQL -->
+        <a href="https://github.com/lirik1254?tab=repositories" target="_blank"><img alt="PostgreSQL"
+                        src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
         </a>
-        <!-- TailwindCSS -->
-        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="TailwindCSS"
-                        src="https://img.shields.io/badge/-TailwindCSS-10172a?style=flat-square&logo=Tailwindcss&logoColor=37bcf8">
+        <!-- Redis -->
+        <a href="https://github.com/lirik1254?tab=repositories" target="_blank"><img alt="Redis"
+                        src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
         </a>
-        <!-- Arduino -->
-        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Arduino"
-                        src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white">
+        <!-- Apache Kafka -->
+        <a href="https://github.com/lirik1254?tab=repositories" target="_blank"><img alt="Apache Kafka"
+                        src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white">
         </a>
 </p>
 
@@ -49,26 +49,14 @@
     <p align="center">
         <br>
         <!-- Activity Widget -->
-        <img alt="Shahriar Shafin's GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=ShahriarShafin&show_icons=true&theme=radical" />
+        <img alt="Kirill SHulzhik's GitHub Stats"
+                src="https://github-readme-stats.vercel.app/api?username=lirik1254&show_icons=true&theme=radical" />
         <br>
         <!-- Social Links -->
         <p>Find me on</p>
-        <!-- Mail -->
-        <a href="mailto:connect.shafin@gmail.com" target="_blank"><img alt="Mail"
-                src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
-        </a>
-        <!-- Twitter -->
-        <a href="https://twitter.com/connectshafin" target="_blank"><img alt="Twitter"
-                src="https://img.shields.io/badge/-Twitter-1c9bef?style=flat-square&logo=Twitter&logoColor=white">
-        </a>
-        <!-- Linkedin -->
-        <a href="https://www.linkedin.com/in/shahriarshafin/" target="_blank"><img alt="Linkedin"
-                src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
-        </a>
-        <!-- Youtube -->
-        <a href="https://www.youtube.com/c/ShahriarShafin/videos" target="_blank"><img alt="Youtube"
-                src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white">
+        <!-- Telegram -->
+        <a href="https://t.me/shulzhkv" target="_blank"><img alt="Telegram"
+                src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white">
         </a>
     </p>
 </details>
@@ -87,21 +75,21 @@
 #### Featured
 
 <p align="center">
-<a href="https://github.com/shahriarshafin/shahriarshafin">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=shahriarshafin&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<a href="https://github.com/lirik1254/backend-academy">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=lirik1254&repo=backend-academy&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 <span>&nbsp;</span>
-<a href="https://github.com/shahriarshafin/disney-plus-clone">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=disney-plus-clone&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<a href="https://github.com/lirik1254/hse-works">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=lirik1254&repo=hse-works&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 </p>
 
 <p align="center">
-<a href="https://github.com/shahriarshafin/NodeMcu-ESP8266_Fake_sign_in">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=NodeMcu-ESP8266_Fake_sign_in&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<a href="https://github.com/lirik1254/bankapi-greendata-test">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=lirik1254&repo=bankapi-greendata-test&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 <span>&nbsp;</span>
-<a href="https://github.com/shahriarshafin/Iot-car-controller">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=iot-car-controller&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<a href="https://github.com/lirik1254/github-actions">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=lirik1254&repo=github-actions&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 </p>
