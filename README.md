@@ -6,7 +6,7 @@
 <!-- Title -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://shahriarshafin.github.io/">Shahriar Shafin</a></b>
+                <b><a target="_blank">Kirill Shulzhik</a></b>
         </samp>
 </h3>
 <br>
@@ -14,9 +14,9 @@
 <p align="center">
         <!-- Intro -->
         <samp>
-                「 I'm a software developer from <b>Bangladesh</b> 」
+                「 I'm a software developer from <b>Russia</b> 」
                 <br>
-                「 Focused on creating impactful web applications that improve lives</b> 」
+                「 Focused on backend development to improve lives </b> 」
                 <br>
                 <br>
         </samp>
