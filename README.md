@@ -46,13 +46,7 @@
 <!-- Details Section -->
 <details align="center">
     <summary> <samp>&#9776; More</samp></summary>
-    <p align="center">
-        <br>
-        <!-- Activity Widget -->
-        <img alt="Kirill SHulzhik's GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=lirik1254&show_icons=true&theme=radical" />
-        <br>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lirik1254&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />    
+    <p align="center">  
         <!-- Social Links -->
         <p>Find me on</p>
         <!-- Telegram -->
@@ -72,21 +66,8 @@
     </p>
 </samp>
 
-<!-- Featured Repositories -->
-#### Featured
 
-<p align="center">
-<a href="https://github.com/lirik1254/backend-academy">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=lirik1254&repo=backend-academy&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-<span>&nbsp;</span>
-<a href="https://github.com/lirik1254/hse-works">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=lirik1254&repo=hse-works&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
 </p>
-
-<p align="center">
-<a href="https://github.com/lirik1254/bankapi-greendata-test">
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=lirik1254&repo=bankapi-greendata-test&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 <span>&nbsp;</span>
